@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(141, 88, 45);
+}
+.service{
+    font-size: 40px;
+    border-bottom:solid coral;
+    font-family: monospace;
+}
+.ser{
+    font-size: 40px;
+    
+}
+h1,h3,h4,h5{
+    font-size: 30px;
+}
+.h11{
+    border-bottom: solid coral;
+}
+.h66{
+    font-size: 35px;
+    border:solid black;
+}

@@ -1,0 +1,100 @@
+body{
+    background-color:gray;
+}
+.vv{
+    border: 12px dotted rgb(0, 0, 0);
+    
+}
+.hh{
+    border: 12px dotted rgb(0, 0, 0);
+}
+.jj{
+    border: 12px dotted rgb(0, 0, 0);
+    font-size: 30px;
+}
+.yyy{
+    border:12px dotted  rgb(0, 0, 0);
+        
+}
+ul{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgb(72, 153, 185);
+    font-size: 20px;
+}
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    color: #ffffff;
+
+    padding:10px;
+    text-decoration: none;
+    font-size: 30px;
+}
+li a:hover{
+    background-color:rgb(18, 160, 141);
+    color:rgb(169, 199, 33)
+}
+.logo{
+    color: orange;
+}
+.A-logo{
+    color:rgb(0, 60, 128);
+
+}
+.Big-photo{
+
+    background: rgb(6, 66, 231);
+    color: rgb(16, 82, 204);
+    width: 350px;
+    font-size: 20px;
+}
+.hoppy-title{
+    color:rgb(23, 182, 182)
+}
+.carsss{
+    color: rgb(255, 153, 0);
+}
+.navbar{
+    position: fixed;
+    
+}
+.tik{
+    color:rgb(26, 25, 129) ;
+}
+.h1,h2,h3,h4,h5{
+font-size: 30px;
+
+}
+.spaan{
+    color:rgb(14, 9, 82);
+
+}
+
+.parent{
+    width: 100%;
+    text-align: center;
+    margin-top: 40px;
+
+}
+
+.child{
+    margin: 1%;
+    width: calc(96% / 2);
+    float: left;
+    width: 500px;
+}
+
+img{
+    width: 80%;
+    
+}
+
+    ;
+
+
